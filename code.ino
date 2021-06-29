@@ -17,7 +17,7 @@ const int API_TIEOUT = 10000;
 
 const char* Host = "maps.googleapis.com";
 String thisPage = "/maps/api/js?key=";
-String key = "AIzaSyD6D6FdPa4A1h4vB9HDxT06s0scqkkuJMs";
+String key = "AIzaSyD6D6FdPa4A1xT06s0scqkku23asdawdrfdszxcs";
 
 int status = WL_IDLE_STATUS;
 String jsonString = "{\n";
